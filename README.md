@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskars9&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskars9" /> </p>
 
 - 🔭 I'm currently revising  **SQL**
-- 🌱 I’m currently learning **Data Engineering and MLOPs**
+- 🌱 I’m currently learning **Data Engineering**
 - 👨‍💻 I've worked on **Recommender Systems**
 - 💬 Ask me about **Data Visualization**
 <h4 align="left"><b>Languages and Tools</b></h4>
