@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskars9&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskars9" /> </p>
 
-- I'm currently working on **SQL**
+- I'm currently revising  **SQL**
 
 - 🌱 I’m currently learning **Data Engineering and MLOPs**
 
