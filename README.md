@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋, I'm Bhaskar</h1>
-<h3 align="left">A data Enthusiast</h3>
+<h3 align="left">A tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskars9&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskars9" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
-- 👨‍💻 I've worked on **Recommender Systems, Machine Learning**
-- 💬 Ask me about **Data Visualization**
+- 🌱 I’m currently learning **DevOPs**
+- 👨‍💻 I've worked on **Web Development, Recommender Systems, Machine Learning**
+
 <h4 align="left"><b>Languages and Tools</b></h4>
 
 <p align="left">
