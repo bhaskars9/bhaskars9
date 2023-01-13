@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskars9&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskars9" /> </p> -->
 
-- 🌱 I’m currently learning **DevOPs**
+<!-- - 🌱 I’m currently learning **DevOPs** -->
 <!-- - 🚀 I'm currently working on Django ([bookticket.azurewebsites.net](https://bookticket.azurewebsites.net/)) -->
 - 👨‍💻 I've worked on **Web Development, Recommender Systems, Machine Learning**
 
